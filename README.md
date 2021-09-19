@@ -1,1 +1,1 @@
-![Screen Recording](https://www.berrycast.com/conversations/67c80aaf-c0d6-5458-8348-74bbd53eb6dd)
+![Screen Recording](./c8648f9e297e74455fcd319b4b9923866a2ab41e.gif)
